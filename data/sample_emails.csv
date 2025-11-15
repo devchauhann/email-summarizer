@@ -1,0 +1,6 @@
+id,subject,sender,body,date
+1,Meeting reschedule,alice@example.com,"Hi Dev,\nCan we move our meeting from Tue to Thu at 3pm? I'm out on Monday. Thanks, Alice",2025-11-10
+2,Invoice 12345,accounts@vendor.com,"Hello,\nPlease find attached invoice #12345 for October. Payment due in 30 days. Let us know if you need any changes.",2025-11-11
+3,Welcome to the service,team@service.com,"Hi Dev,\nThanks for signing up! Here's how to get started: 1) Verify email 2) Set up profile 3) Enjoy the service. Contact support if needed.",2025-11-12
+4,URGENT: Server down,ops@company.com,"Server alert:\nWe detected a critical outage in cluster-3. Service is down for customers in region ap-south. Immediate attention required.",2025-11-13
+5,Event: Webinar invitation,events@community.org,"You're invited to our webinar on Nov 25. Sign up link inside. Limited seats available.",2025-11-14
